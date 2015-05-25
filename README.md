@@ -1,2 +1,2 @@
 # google-homepage
-CSS Practice for [The Odin Project](theodinproject.com).
+CSS Practice for [The Odin Project](http://www.theodinproject.com).
